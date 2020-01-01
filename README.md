@@ -6,3 +6,6 @@
 
 # 树
 哈夫曼树
+
+# 链表
+LinkList以及LruLinkList
